@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "description": "Fairway Content Library (CRA)",
-  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "react": "18.2.0",
