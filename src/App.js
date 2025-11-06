@@ -10,8 +10,7 @@ import React, { useEffect, useMemo, useState } from "react";
 ========================= */
 // Set this to your custom domain once SSL is live
 // e.g. https://learning.the.fairway.fairwaydigitalmedia.com/index.json
-const DATA_URL = "https://learning.the.fairway.fairwaydigitalmedia.com/index.json?v=20251105a";
-
+const DATA_URL = "https://learning.the.fairway.fairwaydigitalmedia.com/index.json?v=20251105b";
 
 // Optional hero image (Fairway golf background)
 const HERO_URL =
